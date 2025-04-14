@@ -1,8 +1,7 @@
-# TheBiggestBirds
+# TheBiggestBirds: Automatic Chicken Coop Door
 
 Contributions made by Alexander Levine, Andrew LaJoie, Douglass Fissinger, Ethan Willford, Nathan Widman
 
-# Automatic Chicken Coop Door
 # Problem Statement
 To keep chickens safe during the night and allow free access in and out during the day, we need a door that will open and close when the chickens need it. This door needs to be secure enough to ensure nothing else besides the chickens can get into the coop. We also need to set parameters on the accessibility of the door depending on the time of day.
 
