@@ -15,6 +15,8 @@ Easy to use and not hinder the owner's capability to open the door manually.
 # Solution
 Design and build an Automatic Chicken Coop Door Opener that slides the door out of the way and opens by the chickens pecking a big red button to trigger the open mechanism. Chickens are attracted to the color red, which means they will be very interested in the button. Their curiosity will make them peck the button, which will open the door. Instead of using RFID tags, a remote control will be used to trigger the door opening.
 
+![Solidworks Model of Moving Mechanism]( https://drive.google.com/uc?export=view&id=1lRBZdM5yMjuBbjFVy8u6nn7dCYLygRdw)
+
 # Design Function
 Motor Control: A motor behind the door controls its movement along a track, allowing the door to slide open and close when the Arduino tells it to. The door opens horizontally to avoid crashing down upon the chickens.
 Arduino Code: The Arduino is coded to open the door only when the button is pushed and the parameters are met (remote control signal and during the day).
