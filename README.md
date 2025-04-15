@@ -17,8 +17,6 @@ Design and build an Automatic Chicken Coop Door Opener that slides the door out 
 
 ![Solidworks Model of Moving Mechanism](https://drive.google.com/uc?export=view&id=1lRBZdM5yMjuBbjFVy8u6nn7dCYLygRdw)
 
-![Printed Mechanism](https://drive.google.com/uc?export=view&id=1sxl_w3hVd5d3YOmI2OPnTvBo4U8zogsS)
-
 # Design Function
 Motor Control: A motor behind the door controls its movement along a track, allowing the door to slide open and close when the Arduino tells it to. The door opens horizontally to avoid crashing down upon the chickens.
 Arduino Code: The Arduino is coded to open the door only when the button is pushed and the parameters are met (remote control signal and during the day).
@@ -26,8 +24,14 @@ Changes Since Milestone 1
 Added wires to connect the big red button and remote control receiver to our breadboard.
 Improved the code for a cleaner opening of the door.
 
+![Printed Mechanism]()
+
 # Frame
 The frame we have built for our automatic chicken coop door. It has a length of 28 and ¾ inches and a height of 14 inches. It has a 4 by 8 inch shelf that will hold the electronics on it. It has two posts on the edges of the frame which will hold it up. The posts have a length of 4 inches and a height of 18 inches. These dimensions were chosen to match the dimensions of the rail for our device that opens the door. The frame and door are complete for now, we will change the frame in the future if problems occur during testing but as of now the door and frame are complete.
+
+![Frame Front](https://drive.google.com/uc?export=view&id=1dgTzQ-ldX1J_N0ftF_o-xb4Q07xYQPj-)
+
+![Frame ack]()
 
 # Detailed Design
 Mounting Bracket: The door is attached to a mounting bracket, which connects it to a gantry plate. The gantry plate serves as the main moving component. By attaching wheels to the gantry plate using screws and spacers, the door can smoothly move across the rail.
