@@ -24,7 +24,7 @@ Changes Since Milestone 1
 Added wires to connect the big red button and remote control receiver to our breadboard.
 Improved the code for a cleaner opening of the door.
 
-![Printed Mechanism](https://drive.google.com/file/d/1sxl_w3hVd5d3YOmI2OPnTvBo4U8zogsS)
+![Printed Mechanism](https://drive.google.com/uc?export=view&id=1sxl_w3hVd5d3YOmI2OPnTvBo4U8zogsS)
 
 # Frame
 The frame we have built for our automatic chicken coop door. It has a length of 28 and ¾ inches and a height of 14 inches. It has a 4 by 8 inch shelf that will hold the electronics on it. It has two posts on the edges of the frame which will hold it up. The posts have a length of 4 inches and a height of 18 inches. These dimensions were chosen to match the dimensions of the rail for our device that opens the door. The frame and door are complete for now, we will change the frame in the future if problems occur during testing but as of now the door and frame are complete.
